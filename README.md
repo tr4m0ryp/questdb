@@ -212,7 +212,7 @@ The full comparisons, ingestion and queries:
 - [QuestDB vs TimescaleDB](https://questdb.com/blog/timescaledb-vs-questdb-comparison/)
 - [QuestDB vs kdb+](https://questdb.com/compare/questdb-vs-kdb/)
 
-As always, we encourage you to run your own benchmarks.
+As always, we encourage you to run your own benchmarks. ./
 
 ## AI coding agents
 
